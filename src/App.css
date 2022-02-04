@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#canvas {
+  display: none;
+}
+
+.viewer {
+  margin-top: 50px;
+}
+
+.picker {
+  display: inline-block;
+  margin-left: 60px;
+}
